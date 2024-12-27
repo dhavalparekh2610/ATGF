@@ -1,29 +1,33 @@
 {
-  "posts": [
-    {
-      "body": "Arithmetic operators perform arithmetic on numbers. (literals or variables).\n\nOperator\tDescription\n+\tAddition\n-\tSubtraction\n*\tMultiplication\n**\tExponentiation \n/\tDivision\n%\tModulus\n++\tIncrement\n--\tDecrement",
-      "author": "JavaScript Arithmetic Operators",
-      "id": "0.5903407117081445"
-    },
-    {
-      "body": "There are different types of JavaScript operators:\n\nArithmetic Operators\nAssignment Operators\nComparison Operators\nString Operators\nLogical Operators\nBitwise Operators\nTernary Operators\nType Operators",
-      "author": "Types of JavaScript Operators",
-      "id": "0.9765689335262668"
-    },
-    {
-      "body": "The Assignment Operator = assigns values\n\nThe Addition Operator + adds values\n\nThe Multiplication Operator * multiplies values\n\nThe Comparison Operator > compares values",
-      "author": "JavaScript Operators",
-      "id": "0.1595507370853313"
-    },
-    {
-      "body": "The const keyword was introduced in ES6 (2015)\n\nVariables defined with const cannot be Redeclared\n\nVariables defined with const cannot be Reassigned\n\nVariables defined with const have Block Scope",
-      "author": "JavaScript Const",
-      "id": "0.6717421890187563"
-    },
-    {
-      "body": "The let keyword was introduced in ES6 (2015)\n\nVariables declared with let have Block Scope\n\nVariables declared with let must be Declared before use\n\nVariables declared with let cannot be Redeclared in the same scope",
-      "author": "JavaScript Let",
-      "id": "0.13417754484929634"
-    }
-  ]
+    "posts": [{
+            "body": "String\nNumber\nBigint\nBoolean\nUndefined\nNull\nSymbol\nObject\n\nThe Object Datatype\nThe object data type can contain both built-in objects, and user defined objects:\n\nBuilt-in object types can be:\n\nobjects, arrays, dates, maps, sets, intarrays, floatarrays, promises, and more",
+            "author": "JavaScript has 8 Datatypes",
+            "id": "0.31462849312462016"
+        },
+        {
+            "body": "Arithmetic operators perform arithmetic on numbers. (literals or variables).\n\nOperator\tDescription\n+\tAddition\n-\tSubtraction\n*\tMultiplication\n**\tExponentiation \n/\tDivision\n%\tModulus\n++\tIncrement\n--\tDecrement",
+            "author": "JavaScript Arithmetic Operators",
+            "id": "0.5903407117081445"
+        },
+        {
+            "body": "There are different types of JavaScript operators:\n\nArithmetic Operators\nAssignment Operators\nComparison Operators\nString Operators\nLogical Operators\nBitwise Operators\nTernary Operators\nType Operators",
+            "author": "Types of JavaScript Operators",
+            "id": "0.9765689335262668"
+        },
+        {
+            "body": "The Assignment Operator = assigns values\n\nThe Addition Operator + adds values\n\nThe Multiplication Operator * multiplies values\n\nThe Comparison Operator > compares values",
+            "author": "JavaScript Operators",
+            "id": "0.1595507370853313"
+        },
+        {
+            "body": "The const keyword was introduced in ES6 (2015)\n\nVariables defined with const cannot be Redeclared\n\nVariables defined with const cannot be Reassigned\n\nVariables defined with const have Block Scope",
+            "author": "JavaScript Const",
+            "id": "0.6717421890187563"
+        },
+        {
+            "body": "The let keyword was introduced in ES6 (2015)\n\nVariables declared with let have Block Scope\n\nVariables declared with let must be Declared before use\n\nVariables declared with let cannot be Redeclared in the same scope",
+            "author": "JavaScript Let",
+            "id": "0.13417754484929634"
+        }
+    ]
 }
