@@ -1,0 +1,17 @@
+.posts1 {
+  word-wrap: break-word;
+  list-style: none;
+  max-width: 50rem;
+  margin: 1rem auto;
+  padding: 1rem 0;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, 30%);
+  justify-content: center;
+}
+.loader {
+  display: contents;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

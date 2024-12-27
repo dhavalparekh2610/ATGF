@@ -1,0 +1,23 @@
+.post {
+  margin: 1rem 0;
+  padding: 1rem;
+  background-color: aqua;
+  border-radius: 15px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  animation: animate-in 1s ease-out forwards;
+  text-align: start;
+}
+.author1 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: rgb(12, 35, 245);
+  margin: 0;
+  text-transform: uppercase;
+}
+.text {
+  white-space: pre-wrap;
+  font-size: 1.25rem;
+  margin: 0.25rem 0 0 0;
+  color: blueviolet;
+  font-style: italic;
+}
