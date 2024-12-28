@@ -7,6 +7,11 @@
   animation: animate-in 1s ease-out forwards;
   text-align: start;
 }
+
+.post a {
+  text-decoration: none;
+}
+
 .author1 {
   font-size: 1rem;
   font-weight: bold;
@@ -14,6 +19,7 @@
   margin: 0;
   text-transform: uppercase;
 }
+
 .text {
   white-space: pre-wrap;
   font-size: 1.25rem;
