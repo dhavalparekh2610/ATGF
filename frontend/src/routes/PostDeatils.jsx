@@ -4,7 +4,6 @@ import classes from "./PostDetails.module.css";
 
 function PostDetails() {
   const post = useLoaderData();
-  console.log("===>", post);
 
   if (!post) {
     return (
@@ -40,7 +39,6 @@ export const loader = async ({ params }) => {
       throw new Error("Network response was not ok");
     }
     const resData = await response.json();
-    console.log("123======>", resData);
     return resData.post;
   } catch (error) {
     console.error("Fetch error: ", error);
